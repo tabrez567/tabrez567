@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
 </a>
 &nbsp;&nbsp;
-<a href="https://tryhackme.com/p/tabrezansari11d1404">
+<a href="https://tryhackme.com/p/Tabrezansari">
   <img src="https://img.shields.io/badge/TryHackMe-0A101F?style=for-the-badge&logo=tryhackme&logoColor=22D3EE&labelColor=0A101F" alt="TryHackMe" />
 </a>
 &nbsp;&nbsp;
